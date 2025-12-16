@@ -3,7 +3,7 @@ import os
 
 FILENAME = "products.csv"
 FIELDS = ["product", "price", "count"]
-
+#This is comment for testing git hub
 
 def init_file():
     file_empty = not os.path.exists(FILENAME) or os.path.getsize(FILENAME) == 0
