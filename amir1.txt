@@ -1,3 +1,7 @@
-amir test 1
-chane file for test
+
+HEAD
 this line test for branch
+=======
+in amir branch hastim
+changingggggggggggggggggggggg
+amir-branch
