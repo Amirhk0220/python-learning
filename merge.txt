@@ -1,5 +1,0 @@
-
-This is line just for master
-
-This line is just for branch merge
-
