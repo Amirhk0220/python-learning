@@ -1,7 +1,1 @@
-
-HEAD
-this line test for branch
-=======
-in amir branch hastim
-changingggggggggggggggggggggg
-amir-branch
+This line is from new-branch
